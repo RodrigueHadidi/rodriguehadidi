@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Rodrigue Hadidi world
 
-You can use the [editor on GitHub](https://github.com/RodrigueHadidi/rodriguehadidi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Ambitious, strong-hearted university graduate seeking a graphic design career. Willing to adapt to new environments as needed. Considered as a fast learner, hard working, creative individual. Able to withstand long hours of excessive work. Valuing patience as a virtue.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
