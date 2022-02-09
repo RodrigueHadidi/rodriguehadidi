@@ -1,0 +1,1 @@
+Ambitious, strong-hearted university graduate seeking a graphic design career. Willing to adapt to new environments as needed. Considered as a fast learner, hard working, creative individual. Able to withstand long hours of excessive work. Valuing patience as a virtue.
